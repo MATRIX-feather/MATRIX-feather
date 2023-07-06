@@ -1,3 +1,5 @@
+<h2 align="center"> 👋 Hi There </h2>
+
 ### `$ whoami`
 - A 19-year-old Linux user who lives in China, slowly making progress on interested things.
 
