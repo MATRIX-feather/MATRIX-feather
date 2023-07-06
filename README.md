@@ -1,5 +1,5 @@
 ### `$ whoami`
-- A 19-year-old Linux user who lives in China.
+- A 19-year-old Linux user who lives in China, slowly making progress on interested things.
 
 ### `$ cat /sys/me/status`
 - Maintaining several projects:
