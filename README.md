@@ -10,7 +10,6 @@
     - [Morph plugin for Paper servers](https://github.com/XiaMoZhiShi/FeatherMorph), and its [client mod](https://github.com/XiaMoZhiShi/FeatherMorphClient)
 - Tired of *Ubuntu and GNOME*, planning to switch to *Windows* or a linux distro that focuses on CJK end-users-friendly like *Deepin*.
 - My next OS *would probably* is Windows if Ubuntu or GNOME still not fixing their desktop experience.
-- Hope can join *Deepin* after several years and make more people use Linux because it's easier to use.
 
 ### `$ cat /sys/me/skills`
 - Java, C#, Bash
