@@ -8,7 +8,6 @@
     - [A music player plugin for osu!lazer](https://github.com/MATRIX-feather/LLin)
     - [Minecraft server for *XiamoMC*](https://xiamomc.ink)
     - [Morph plugin for Paper servers](https://github.com/XiaMoZhiShi/FeatherMorph), and its [client mod](https://github.com/XiaMoZhiShi/FeatherMorphClient)
-- Tired of *Ubuntu and GNOME*, planning to switch to *Windows* or a linux distro that focuses on CJK end-users-friendly like *Deepin*.
 
 ### `$ cat /sys/me/skills`
 - Java, C#, Bash
