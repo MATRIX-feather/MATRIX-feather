@@ -1,7 +1,7 @@
 <h2 align="center"> 👋 Hi There </h2>
 
 ### `$ whoami`
-- A 19-year-old gamer who lives in China, slowly making progress on interested things.
+- A 20-year-old gamer who lives in China, is slowly making progress on interested things.
 
 ### `$ cat /sys/me/status`
 - Maintaining several projects:
