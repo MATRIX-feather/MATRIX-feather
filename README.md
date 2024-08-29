@@ -1,16 +1,13 @@
 <h2 align="center"> 👋 Hi There </h2>
 
 ### `$ whoami`
-- A 20-year-old gamer who lives in China, is slowly making progress on interested things.
+- A human, slowly doing things on my interests. 🐱
 
 ### `$ cat /sys/me/status`
 - Maintaining several projects:
     - [A music player plugin for osu!lazer](https://github.com/MATRIX-feather/LLin)
     - [Minecraft server for *XiamoMC*](https://xiamomc.ink)
     - [Morph plugin for Paper servers](https://github.com/XiaMoZhiShi/FeatherMorph), and its [client mod](https://github.com/XiaMoZhiShi/FeatherMorphClient)
-
-### `$ cat /sys/me/skills`
-- Java, C#, Bash
 
 ### `$ cat /etc/environment`
 ```
