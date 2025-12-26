@@ -11,10 +11,12 @@
 
 ### `$ cat /etc/environment`
 ```
-PREF_OS="Ubuntu:Deepin:ArchLinux:Windows"
-DEV_MACHINE="Lenovo Y7000 2020"
-GAMING_MACHINE="Dell G15 5520"
+OS_IM_USING="Arch Linux:Widows"
+DESKTOP="DIY desktop, AMD CPU + NVIDIA GPU"
+DEV_MACHINE="$GAMING_MACHINE"
+FAVORITE_DESKTOP="KDE Plasma"
 ```
 
-### `$ eog /home/neko/gh-status`
-[![MATRIX-feather's github stats](https://github-readme-stats.vercel.app/api?username=MATRIX-feather&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/MATRIX-feather)
+### `$ cat /home/lingua/links`
+- osu!: https://osu.ppy.sh/users/13870362
+<!--[![MATRIX-feather's github stats](https://github-readme-stats.vercel.app/api?username=MATRIX-feather&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/MATRIX-feather)-->
